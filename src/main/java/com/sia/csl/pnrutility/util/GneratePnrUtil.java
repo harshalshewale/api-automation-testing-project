@@ -1101,8 +1101,7 @@ public class GneratePnrUtil {
 	}
 
 	private static String getRandomFirstName() {
-		int IndexOfFirstName;
-		
+		int IndexOfFirstName;	
 		Random randomNum = new Random();
 		String[] firstNames = { "Harshal", "Vaibhav", "Rasith", "Thyagesh", "Bala", "Jiva", "Pawan", "Vincent", "Philip", "Tzkeen",
 				"Szeyen", "Balaji", "Ekwin", "Murali", "Donald", "Sunny", "Maxwell", "Dhoni", "Aishwarya", "Modi", "Soniya", "Trump",
