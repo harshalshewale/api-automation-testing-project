@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "TestCaseName": "Test001",
+            
+            "FirstLeg": "SINBOM",
+            "FirstFlightNumber": "SQ424",
+            "FirstFlightDateOfJourney": "27FEB",
+            
+            "SecondLeg":null,
+            "SecondFlightNumber":null,
+            "SecondFlightDateOfJourney":null,
+            
+            "ThirdLeg":null,
+            "ThirdFlightNumber":null,
+            "ThirdFlightDateOfJourney":null,
+            
+            "FourthLeg":null,
+            "FourthFlightNumber":null,
+            "FourthFlightDateOfJourney":null,
+            
+            "SeatClass": "Y",
+            "NoOfAdults": "1",
+            "NoOfChilds": "0",
+            "NoOfAdultWithInfant": "0",
+            "FirstName": "Harshal",
+            "LastName": "Test",
+            "Squad": "CSLQA"
+            
+        }
+    ]
+}

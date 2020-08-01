@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "$.name": "Harshal",
+            "$.salary": "10000"
+        },
+        {
+            "$.name": "Priya",
+            "$.salary": "20000"
+        },
+        {
+            "$.name": "Priti",
+            "$.salary": "30000"
+        }
+    ]
+}
